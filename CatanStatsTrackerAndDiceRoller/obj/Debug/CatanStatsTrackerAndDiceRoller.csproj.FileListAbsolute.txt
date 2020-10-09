@@ -1,0 +1,14 @@
+C:\Users\bajablastgg\source\repos\CatanStatsTrackerAndDiceRoller\obj\Debug\CatanStatsTrackerAndDiceRoller.csprojAssemblyReference.cache
+C:\Users\bajablastgg\source\repos\CatanStatsTrackerAndDiceRoller\obj\Debug\MainWindow.g.cs
+C:\Users\bajablastgg\source\repos\CatanStatsTrackerAndDiceRoller\obj\Debug\App.g.cs
+C:\Users\bajablastgg\source\repos\CatanStatsTrackerAndDiceRoller\obj\Debug\CatanStatsTrackerAndDiceRoller_MarkupCompile.cache
+C:\Users\bajablastgg\source\repos\CatanStatsTrackerAndDiceRoller\obj\Debug\CatanStatsTrackerAndDiceRoller_MarkupCompile.lref
+C:\Users\bajablastgg\source\repos\CatanStatsTrackerAndDiceRoller\bin\Debug\CatanStatsTrackerAndDiceRoller.exe.config
+C:\Users\bajablastgg\source\repos\CatanStatsTrackerAndDiceRoller\bin\Debug\CatanStatsTrackerAndDiceRoller.exe
+C:\Users\bajablastgg\source\repos\CatanStatsTrackerAndDiceRoller\bin\Debug\CatanStatsTrackerAndDiceRoller.pdb
+C:\Users\bajablastgg\source\repos\CatanStatsTrackerAndDiceRoller\obj\Debug\MainWindow.baml
+C:\Users\bajablastgg\source\repos\CatanStatsTrackerAndDiceRoller\obj\Debug\CatanStatsTrackerAndDiceRoller.g.resources
+C:\Users\bajablastgg\source\repos\CatanStatsTrackerAndDiceRoller\obj\Debug\CatanStatsTrackerAndDiceRoller.Properties.Resources.resources
+C:\Users\bajablastgg\source\repos\CatanStatsTrackerAndDiceRoller\obj\Debug\CatanStatsTrackerAndDiceRoller.csproj.GenerateResource.cache
+C:\Users\bajablastgg\source\repos\CatanStatsTrackerAndDiceRoller\obj\Debug\CatanStatsTrackerAndDiceRoller.exe
+C:\Users\bajablastgg\source\repos\CatanStatsTrackerAndDiceRoller\obj\Debug\CatanStatsTrackerAndDiceRoller.pdb
